@@ -27,7 +27,7 @@ Metadata:
 Parameters:
   ProjectSubfolder:
     Type: String
-    Default: "hello-sam-01/"
+    Default: "hello-sam-01"
   CodeCommitRepositoryName:
     Type: String
     Default: "monorepo"
